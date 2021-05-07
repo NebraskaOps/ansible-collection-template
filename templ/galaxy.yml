@@ -6,7 +6,7 @@
 namespace: nebraskaops
 
 # The name of the collection. Has the same character restrictions as 'namespace'
-name: TEMPL
+name: templ
 
 # The version of the collection. Must be compatible with semantic versioning
 version: 1.0.0
